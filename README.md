@@ -1,33 +1,82 @@
-# Ionic-3-Taxi-booking-App-Semelhante-a-Uber-e-Taxify
-Este é um aplicativo completo de reserva de viagens construído com ionic3, Ele usa o plug-in do Google Maps Cordova, firebase como banco de dados em tempo real e onesignal como provedor de notificação.
+### Get the entire project [HERE](https://market.ionicframework.com/starters/taxi-booking-app-similar-to-uber-and-taxify-contains-user-app-driver-app-and-a-web-admin-) . This includes passenger app, driver app and web admin dashboard.
+
+### *With Firebase serveless cloud realtime database.
+### *Stripe Payment included.
+### *Neat App Design.
+### *Excellent Notification System.
+### *Driver Tracking. etc.
 
 
-# Características
-Google Maps SDK Cordova
-Firebase Realtime DB
-Onesignal (Google Cloud Messaging)
-Paystack
-Como funciona
-Inicie o aplicativo
-Para este projeto, criei dois aplicativos diferentes. O aplicativo cliente e o aplicativo Driver. Depois de criar uma conta, adicionar um número de telefone, seu local é detectado automaticamente por meio da geolocalização do Google Maps, mas você pode apontar o marcador para outro local para escolher outro local.
+[![Dockbit](https://img.shields.io/dockbit/DockbitStatus/health.svg?token=TvavttxFHJ4qhnKstDxrvBXM)]()
+[![npm (scoped)](https://img.shields.io/npm/v/@cycle/core.svg)]()
 
-# Solicitar um táxi
-Quando um usuário registra um passeio, então os detalhes do usuário são enviados para o banco de dados com o ID de notificação do primeiro driver disponível, depois de 60 segundos e sem resposta, em seguida, é deslocado para outro driver.
+### Sample Android [HERE](https://play.google.com/store/apps/details?id=com.taxihubnigeria.android)
 
-# Seja aceito por um motorista
-Depois de obter um driver, em seguida, seu telefone vibra e as credenciais do driver aparece na tela, bem como a distância entre você e seu driver são exibidas também.
+### Sample Video [HERE](https://www.youtube.com/watch?v=LFlCkfd9SFw)
 
-# Chegar ao seu destino e pagar
-Na conclusão do passeio, seu pagamento é mostrado para você, então você pode verificar e avaliar sua viagem e, em seguida, você está pronto para outra reserva.
+### Contact Me To Set It Up or Include a missing feature [HERE](https://chinedu-website.firebaseapp.com/#/contact)
 
-Este projeto é um clone completo do Uber, que é um aplicativo de reserva de táxi. Esta venda vem com código fonte de 100% para o aplicativo do usuário, Driver App.
-Recursos neste aplicativo
-Intro tela inicial para dar uma aparência atraente para o aplicativo. Integração de API do Google para preenchimento automático. Plotagem de locais para o google map com distância e cálculo de minutos entre rotas. Um passo e processo de reserva fácil. Integração com o gateway de pagamento de faixas. Opção para definir tipos de cabina com taxas do Firebase de back-end. Animação elegante entre visualizações com menu de slides estilo Facebook. Exibir todas as reservas com rolagem para carregar e limpar a interface do usuário. Ativar atualização automática quando o driver aceitar o trabalho na chegada do motorista, jornada iniciada, jornada concluída / descartada, etc. Suporte Mensagens push para todo o status também. Driver de rastreamento ao vivo que é atribuído para a sua reserva. Opção para cancelar o trabalho até que o driver não seja atribuído. Ecrã do cartão de taxas O usuário pode avaliar o driver após a conclusão do passeio, também o motorista pode avaliar o usuário também.
+![](https://static-2.gumroad.com/res/gumroad/6181776888084/asset_previews/f8174fd18d62903aad2d0b147c16164a/retina/Untitled.jpeg)
 
-# Recurso App Driver
-Formulário de registro de 3 etapas com toda a captura de campo e validação necessárias para tornar o aplicativo pronto para ser ativado. Menu deslizante de estilo do Facebook. Opção para definir status disponível e indisponível ... Suporte Firebase Tempo real para rastreamento de driver. Suporte FCM notificação Interface quando a nova reserva é chegada e o telefone começará a apitar. Node.js Atribuição automática de Driver para Jobs com base na disponibilidade do Driver avaibality, tipo de carro e driver disponível mais próximo usando as Consultas GEO Robust Spatial. Suporte Envie mensagens para o driver se o aplicativo estiver em segundo plano. .. Calcular tarifas com base em Milhas + Minutos exigem a viagem. .
 
-# Recursos no administrador da Web:
-Limpo e fácil de entender Painel que exibe todas as estatísticas relevantes.
 
-Visualize a atividade em tempo real de motorista e passageiro no mapa. Exibir tudo Driver .. Exibir tudo o que o usuário .. Exibir driver sinalizado e Opção para bloqueá-los .. Exibir usuário sinalizado e opção para bloquear usuários .. Opção para visualizar todos os usuários .. Definir preços para tipos de carro .. Definir moedas .. E muito Mais …
+### User App
+![layer_1](https://user-images.githubusercontent.com/7928001/35234092-417b1aae-ffa0-11e7-801c-d3417551362b.png)
+![layer_2](https://user-images.githubusercontent.com/7928001/35234161-748fb7c4-ffa0-11e7-8328-aabf77b94b88.png)
+![layer_3](https://user-images.githubusercontent.com/7928001/35234162-74ccd118-ffa0-11e7-841a-74cd2ba3ac4f.png)
+![layer_4](https://user-images.githubusercontent.com/7928001/35234158-73a9073e-ffa0-11e7-9e08-9438615bfe21.png)
+
+### Driver App
+![layer_5](https://user-images.githubusercontent.com/7928001/35234159-73efa874-ffa0-11e7-9a06-22f8ae442092.png)
+![layer_6](https://user-images.githubusercontent.com/7928001/35234160-743aa7f2-ffa0-11e7-91ee-94671afeff7e.png)
+
+
+### Web Admin
+![download 2](https://user-images.githubusercontent.com/7928001/35230751-38c625ec-ff97-11e7-865e-236aa0ee8723.png)
+![download 1](https://user-images.githubusercontent.com/7928001/35230783-561d37a2-ff97-11e7-9335-fe5e7f843407.png)
+![download](https://user-images.githubusercontent.com/7928001/35230798-5f3003a6-ff97-11e7-86b9-673cabb63873.png)
+
+
+
+## Features
+1. Google Maps SDK Cordova 
+2. Firebase Realtime DB
+3. Onesignal(Google Cloud Messaging)
+4. Paystack
+
+
+## How It Works
+
+
+### Start The App
+
+For This Project, I created Two Different Apps. The Client App and The Driver App. After creating An Account, Adding A Phone Number, Your Location Is Automatically detected via the google maps geolocation, But You Could Point The Marker Elsewhere To Choose Another Location.
+
+### Request A Taxi
+
+When A User Books A ride, Then User's Details Are Sent To The Database With The Notification Id Of The First Driver Available, Then After 60 seconds And No reply, Then it is shifted To Another driver.
+
+### Get Accepted By A Driver
+
+Once You Get A Driver Then Your Phone Vibrates And The Credentials Of The Driver Appears on Your Screen, As well as The Distance Between You And Your Driver Are Displayed As well.
+
+### Get To Your Destination And Pay Up
+
+On Completion Of the ride your payment reciept is shown to you, then you can check out and rate your ride and then, you are ready for another booking.
+
+
+## This project is a complete clone of Uber , which is a taxi booking App . This sale comes with 100% Source code for User app , Driver App.
+
+## Features in this app
+
+Intro splash screen to give appealing look to the app. Google api integration for autocomplete. Plotting of places to google map with distance and minutes calculation between routes. One step and easy booking process. Integration with Stripe Payment gateway. Option to set cab types with rates from backend Firebase . Stylish animation between views with Facebook style slide menu. Display all booking with scroll to load and clean UI. Enable Auto refresh when driver accept job on driver arrival, journey begin , journey completed / dropped etc. Support Push messages for all the status as well. Live tracking Driver who are assigned for your booking. Option to Cancel the Job till driver is not assigned. Rate card screen. User can rate driver after completion of Ride , ALSO driver can rate user as well. 100% ionic 3 Project and shipped with full source code.
+
+## Driver App Feature 
+
+3 Step registration form with all required field capture and validation done to make app ready to go live .. Facebook style sliding menu .. Option to set status available and unavailable ... Support Firebase Realtime for tracking Driver . Support FCM notification Interface when new booking is arrived and Phone will start beeping . Node.js Auto assigning of Driver for Jobs on the basis of availability of Driver avaibality , car type and nearest available driver using Robust Spatial GEO Queries .. Support Push messages to driver if app is in background. .. Calculating Tariff on the basis of Miles + Minutes require to travel . .
+
+## Features in Web admin: 
+
+Clean and Easy to understand Dashboard which display all relevant statistics.
+
+View Realtime driver and passenger activity on map. View all Driver’s .. View all User’s .. View Flagged Driver and Option to block them.. View Flagged User and Option to block users.. Option to view all users.. Set Prices for Car types .. Set Currencies .. And much more …
